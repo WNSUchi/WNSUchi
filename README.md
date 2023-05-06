@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there👋
+### I'm a newbie to programming 
+### I'm actually starting learning web development 
+### I'm interest in front end development
+### I'm 16 y/o
 <!--
 **WNSUchi/WNSUchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
